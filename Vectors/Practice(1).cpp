@@ -24,7 +24,7 @@ void ReadNumbers(vector  <int> & vNumbers)
 	} 
 }
 
-void PrintVectorNumbers(vector  <int>  vNumbers) 
+void PrintVectorNumbers(vector  <int> & vNumbers) 
 { 
 	cout << "Numbers Vector: \n\n"; // ranged loop
 	
